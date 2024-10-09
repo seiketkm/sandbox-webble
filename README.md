@@ -1,3 +1,10 @@
+## メモ
+
+うまくいっていない。
+デバイスは見える。
+接続もできる。
+Descriptor 経由で書き込みができない。
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
